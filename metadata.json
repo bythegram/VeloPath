@@ -1,0 +1,6 @@
+{
+  "name": "VeloPath Bikepacker",
+  "description": "An advanced route planner, gear checklist generator, and souvenir poster creator for bikepacking adventurers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
